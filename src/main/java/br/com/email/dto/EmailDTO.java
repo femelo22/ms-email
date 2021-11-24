@@ -9,7 +9,7 @@ import lombok.Data;
 public class EmailDTO {
 
 	@NotBlank
-	private String ownerEmail;
+	private String ownerRef;
 	
 	@NotBlank
 	@Email
