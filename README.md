@@ -10,5 +10,5 @@ Dependencias utilizadas:
 - Spring Web
 
 
-Coisas novas:
+Coisas novas: </br>
 Spring AMQP -> Spring AMQP aplica os conceitos básicos do Spring ao desenvolvimento de soluções de mensagens baseadas em AMQP (Advanced Message Queuing Protocol)
