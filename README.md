@@ -1,5 +1,8 @@
 # Spring Microservices
 
+🎯 Objetivos
+Criar um microseriviço de envio de email que se comunica com outros microserviço de mensagerias (RabbitMQ)
+
 Dependencias utilizadas:
 - Spring Boot DevTools
 - Lombook
