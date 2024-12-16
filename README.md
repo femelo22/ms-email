@@ -5,6 +5,7 @@ Criar um microserivi√ßo de envio de email que se comunica com outros microservi√
 
 Dependencias utilizadas:
 - Spring Boot DevTools
+- RabbitMQ
 - Lombook
 - Validation
 - Java Mail Sender
